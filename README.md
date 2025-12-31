@@ -13,7 +13,7 @@ This project is not just a collection of scripts; it is a study archive focusing
 
 It explores how Python handles memory (Stack vs Heap), how logical operators function at a low level, and how to apply SOLID principles for robust software architecture.
 
-📄 **Key Reference:** [`python 기초요약.pdf`](python%20기초요약.pdf) *(Included in repo)*
+📄 **Key Reference:** ([python 기초요약.pdf](https://github.com/aqua1107/Python-Basic/blob/main/python%20%20%EA%B8%B0%EC%B4%88%EC%9A%94%EC%95%BD.pdf)) *(Included in repo)*
 
 ---
 
